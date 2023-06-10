@@ -2,30 +2,30 @@
 Your Job Referral Platfrom
 
 
-Problem : Lack of orientational information / motivation to apply to the jobs
+**Problem :** Lack of orientational information / motivation to apply to the jobs
 
-Target users : Underrepresented community in tech industries
+**Target users :** Underrepresented community in tech industries
 
-Solutions : Reffie Club Job Referral Platform
-
-
-Benefits :
-
-Minority community : Find jobs easily and get involved more and feel much safe
-
-Company : Improve their inclusion and diversity and with that success better in their sector
-
-Employees of the company : Career improvement by being Job Advocates and increase their social impact
+**Solutions :** Reffie Club Job Referral Platform
 
 
-What this project includes? 
+### Benefits
 
-Our website project:
+**Minority community :** Find jobs easily and get involved more and feel much safe
+
+**Company :** Improve their inclusion and diversity and with that success better in their sector
+
+**Employees of the company :** Career improvement by being Job Advocates and increase their social impact
+
+
+### What this project includes? 
+
+#### Our website project
 
 www.reffie.club
 
 
-Data Analysis and Visualization:
+#### Data Analysis and Visualization
 
 We have analyzed the jobs posts available in the NL. There are 5 figures that describe;
  - The top cities with the most jobs positions, 
@@ -40,7 +40,7 @@ The link for for the visualizations -> https://www.reffie.club/insight
 
 
 
-Backend Project :
+#### Backend Project
 
 We have implemented a Java backend project to play with Job Listing data and make it more meaningful 
 with details such as referring jobs to others, having scores by referrals, adding comments by Job Advocates of the company.
