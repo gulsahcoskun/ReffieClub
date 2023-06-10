@@ -49,9 +49,9 @@ with details such as referring jobs to others, having scores by referrals, addin
 
 ### Who we are
 
-Mai Nyugen - Product Manager
-Nicoleta Spinu - Data Scientist
-Gulsah Coskun - Backend Developer
+ - Mai Nyugen - Product Manager
+ - Nicoleta Spinu - Data Scientist
+ - Gulsah Coskun - Backend Developer
 
 
 
