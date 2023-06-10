@@ -17,6 +17,11 @@ Your Job Referral Platfrom
 
 **Employees of the company :** Career improvement by being Job Advocates and increase their social impact
 
+### How can we make money
+
+- We charge companies for job postings and successful hires
+- We give back some money to referers for every successful referral
+- We charge mentorship platforms eg. topmate, mentorly, etc. for affiliate link
 
 ### What this project includes? 
 
