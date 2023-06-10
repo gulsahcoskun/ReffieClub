@@ -20,6 +20,7 @@ Your Job Referral Platfrom
 
 ### What this project includes? 
 
+
 #### Our website project
 
 www.reffie.club
@@ -44,5 +45,13 @@ The link for for the visualizations -> https://www.reffie.club/insight
 
 We have implemented a Java backend project to play with Job Listing data and make it more meaningful 
 with details such as referring jobs to others, having scores by referrals, adding comments by Job Advocates of the company.
+
+
+### Who we are
+
+Mai Nyugen - Product Manager
+Nicoleta Spinu - Data Scientist
+Gulsah Coskun - Backend Developer
+
 
 
